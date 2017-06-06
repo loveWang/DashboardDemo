@@ -1,2 +1,2 @@
 # DashboardDemo
-![Uploading aa.gif…](https://github.com/loveWang/DashboardDemo.git/ss.gif)
+![image](https://github.com/loveWang/DashboardDemo/tree/master/EGDashboard/ss.gif)
